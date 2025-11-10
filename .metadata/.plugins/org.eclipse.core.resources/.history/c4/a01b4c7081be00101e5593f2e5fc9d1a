@@ -1,0 +1,18 @@
+package com.krakedev;
+
+/*
+ * comentario varias lineas
+ * xd
+ * */
+public class TestPersona {
+
+	public static void main(String[] args) {
+		Persona p; //paso 1 declarar una variable called p de tipo persona.
+		p=new Persona(); //instanciar un objeto Persona y se referencio con p.
+		//paso 3 acceder a los atributos
+		System.out.println("nombre:"+p.nombre);
+		System.out.println("edad:"+p.edad);
+		System.out.println("estatura:"+p.estatura);
+	}
+
+}
