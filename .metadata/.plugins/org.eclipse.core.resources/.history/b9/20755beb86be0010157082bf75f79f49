@@ -1,0 +1,13 @@
+package com.krakedev;
+
+public class TestProducto {
+	Producto productoA=new Producto();
+	Producto productoB=new Producto();
+	Producto productoC=new Producto();
+	
+	productoA.nombre1="Raton de pc";
+	productoA.descripcion="Raton de pc";
+	productoA.precio=25.00;
+	productoA.stockActual=12;
+	
+}
