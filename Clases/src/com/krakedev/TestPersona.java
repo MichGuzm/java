@@ -9,6 +9,14 @@ public class TestPersona {
 	public static void main(String[] args) {
 		Persona p; //paso 1 declarar una variable called p de tipo persona.
 		Persona p2=new Persona();
+		Persona p3=new Persona("Pablo");
+		Persona p4=new Persona("Rocio",43, 160);
+		
+		System.out.println(p3.getNombre());
+		System.out.println(p4.getNombre());
+		System.out.println(p4.getEdad());
+		System.out.println(p4.getEstatura());
+		
 		p=new Persona(); //instanciar un objeto Persona y se referencio con p.
 		//paso 3 acceder a los atributos
 		System.out.println(p.getNombre());
@@ -28,6 +36,8 @@ public class TestPersona {
 		
 		System.out.println("*********");
 		System.out.println(p2.getNombre());
+		
+		
 	}
 
 }
