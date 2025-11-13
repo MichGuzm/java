@@ -10,13 +10,13 @@ public class TestRectangulo {
 		
  		Rectangulo r1= new Rectangulo();
 		Rectangulo r2=new Rectangulo();
-		r1.altura=5;
-		r1.base=10;
+		r1.setAltura(5);
+		r1.setBase(10);
 		area=r1.calcularArea();
 		System.out.println("Area: "+area);
 		
-		r2.altura=3;
-		r2.base=8;
+		r2.setAltura(3);
+		r2.setBase(8);
 		area2=r2.calcularArea();
 		System.out.println("Area r2: "+area2);
 	

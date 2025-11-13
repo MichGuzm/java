@@ -11,24 +11,23 @@ public class TestPersona {
 		Persona p2=new Persona();
 		p=new Persona(); //instanciar un objeto Persona y se referencio con p.
 		//paso 3 acceder a los atributos
-		System.out.println("nombre:"+p.nombre);
-		System.out.println("edad:"+p.edad);
-		System.out.println("estatura:"+p.estatura);
+		System.out.println(p.getNombre());
+		System.out.println(p.getEdad());
+		System.out.println(p.getEstatura());
 		//4 modificar los atributos
-		p.nombre= "Mario";
-		p.edad= 45;
-		p.estatura= 1.56;
+		p.setNombre("Mario");
+		p.setEdad(45);
+		p.setEstatura(1.87);
 		//acceder a los atributos
 		System.out.println("*********");
-		System.out.println("nombre:"+p.nombre);
-		System.out.println("edad:"+p.edad);
-		System.out.println("estatura:"+p.estatura);
+		System.out.println(p.getNombre());
+		System.out.println(p.getEdad());
+		System.out.println(p.getEstatura());
 		
-		p2.nombre="angelina";
+		p2.setNombre("Angelina");
 		
 		System.out.println("*********");
-		System.out.println("p.nombre:"+p.nombre);
-		System.out.println("p2.nombre:"+p2.nombre);
+		System.out.println(p2.getNombre());
 	}
 
 }

@@ -1,0 +1,41 @@
+package com.krakedev;
+
+public class TestProducto {
+
+	public static void main(String[] args) {
+		Producto productoA=new Producto();
+		Producto productoB=new Producto();
+		Producto productoC=new Producto();
+		
+		productoA.setNombre1("Alcohol isopropil");
+		productoA.setDescripcion("Alcohol 70%");
+		productoA.setPrecio(1.00);
+		productoA.setStockActual(120);
+		
+		productoB.setNombre1("Gasa");
+		productoB.setDescripcion("Gasa esteril");
+		productoB.setPrecio(0.40);
+		productoB.setStockActual(300);
+		
+		productoC.setNombre1("Lancetas");
+		productoC.setDescripcion("lancetas para diabetes");
+		productoC.setPrecio(12.00);
+		productoC.setStockActual(78);
+		
+		System.out.println("ProductoA nombre: "+productoA.getNombre1());
+		System.out.println("ProductoA descripcion: "+productoA.getDescripcion);
+		System.out.println("ProductoA precio: "+productoA.getPrecio);
+		System.out.println("ProductoA stockActual: "+productoA.getStockActual);
+		System.out.println("*********");
+		System.out.println("ProductoB nombre: "+productoB.getNombre1());
+		System.out.println("ProductoB descripcion: "+productoB.getDescripcion);
+		System.out.println("ProductoB precio: "+productoB.getPrecio);
+		System.out.println("ProductoB stockActual: "+productoB.getStockActual);
+		System.out.println("*********");
+		System.out.println("ProductoC nombre: "+productoC.getNombre1);
+		System.out.println("ProductoC descripcion: "+productoC.getDescripcion);
+		System.out.println("ProductoC precio: "+productoC.getPrecio);
+		System.out.println("ProductoC stockActual: "+productoC.getStockActual);
+	}
+
+}
