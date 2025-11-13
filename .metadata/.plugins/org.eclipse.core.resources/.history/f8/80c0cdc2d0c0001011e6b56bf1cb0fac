@@ -1,0 +1,26 @@
+package com.krakedev;
+
+public class TestProducto {
+
+	public static void main(String[] args) {
+		Producto productoA=new Producto("Alcohol isopropil","Alcohol 70%",1.00,120);
+		Producto productoB=new Producto("Gasa","Gasa esteril",0.40,300);
+		Producto productoC=new Producto("Lancetas","lancetas para diabetes",12.00,78);
+		
+		System.out.println("ProductoA nombre: "+productoA.getNombre1());
+		System.out.println("ProductoA descripcion: "+productoA.getDescripcion());
+		System.out.println("ProductoA precio: "+productoA.getPrecio());
+		System.out.println("ProductoA stockActual: "+productoA.getStockActual());
+		System.out.println("*********");
+		System.out.println("ProductoB nombre: "+productoB.getNombre1());
+		System.out.println("ProductoB descripcion: "+productoB.getDescripcion());
+		System.out.println("ProductoB precio: "+productoB.getPrecio());
+		System.out.println("ProductoB stockActual: "+productoB.getStockActual());
+		System.out.println("*********");
+		System.out.println("ProductoC nombre: "+productoC.getNombre1());
+		System.out.println("ProductoC descripcion: "+productoC.getDescripcion());
+		System.out.println("ProductoC precio: "+productoC.getPrecio());
+		System.out.println("ProductoC stockActual: "+productoC.getStockActual());
+	}
+
+}

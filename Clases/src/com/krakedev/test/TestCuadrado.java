@@ -1,0 +1,36 @@
+package com.krakedev.test;
+import com.krakedev.Cuadrado;
+public class TestCuadrado {
+
+	public static void main(String[] args) {
+		int area1;
+		int area2;
+		int area3;
+		int per1;
+		int per2;
+		int per3;
+		
+		Cuadrado r1=new Cuadrado(5);
+		Cuadrado r2=new Cuadrado(6);
+		Cuadrado r3=new Cuadrado(11);
+		
+		area1=r1.calcularArea();
+		per1=r1.calcularPerimetro();
+		System.out.println("Area 1: "+area1);
+		System.out.println("Perimetro 1: "+per1);
+		System.out.println("***********");
+		
+		area2=r2.calcularArea();
+		per2=r2.calcularPerimetro();
+		System.out.println("Area 2: "+area2);
+		System.out.println("Perimetro 2: "+per2);
+		System.out.println("***********");
+		
+		area3=r3.calcularArea();
+		per3=r3.calcularPerimetro();
+		System.out.println("Area 3: "+area3);
+		System.out.println("Perimetro 3: "+per3);
+
+	}
+
+}

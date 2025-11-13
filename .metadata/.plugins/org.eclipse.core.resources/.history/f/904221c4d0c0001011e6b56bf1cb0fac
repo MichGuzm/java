@@ -1,0 +1,26 @@
+package com.krakedev;
+
+public class TestRectangulo {
+
+	public static void main(String[] args) {
+		int area;
+		int area2;
+		double perimetro;
+		double perimetro2;
+		
+ 		Rectangulo r1= new Rectangulo(5,10);
+		Rectangulo r2=new Rectangulo(3,8);
+		area=r1.calcularArea();
+		System.out.println("Area: "+area);
+		area2=r2.calcularArea();
+		System.out.println("Area r2: "+area2);
+	
+		perimetro=r1.calcularPerimetro();
+		System.out.println("Perimetro r1: "+perimetro);
+		
+		perimetro2=r2.calcularPerimetro();
+		System.out.println("Perimetro r2: "+perimetro2);
+	
+	}
+
+}
