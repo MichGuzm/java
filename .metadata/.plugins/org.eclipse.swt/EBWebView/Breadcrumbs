@@ -1,42 +1,138 @@
-24:13:19 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
-24:13:19 Tab43 RenderProcessGone
-24:13:19 Microsoft.UnloadController.ClearUnloadState
-24:13:19 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
-24:13:19 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
-24:13:19 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
-24:13:19 Microsoft.UnloadController.ClearUnloadState
-24:13:19 Browser43 Close Tab43 at 0
-24:13:19 Tab43 WebContentsDestroyed
-24:13:19 Microsoft.UnloadController.TabStripEmpty
-24:13:19 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-24:13:19 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-24:13:19 Microsoft.Shutdown.OnWindowClosing
-24:13:19 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-24:13:19 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-24:13:19 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-24:13:19 Widget Closed: BrowserWidget
-24:13:19 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-24:13:19 Microsoft.Shutdown.OnWindowClosing
-24:13:19 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
-24:13:19 Microsoft.Browser_Removed
-24:13:19 Microsoft.NewBrowser_Popup
-24:13:19 Microsoft.BrowserList.AddBrowser
-24:13:19 Browser44 Insert active Tab44 at 0
-24:13:19 Tab44 StartNav346 #auto_toplevel
-24:13:19 Tab44 StartNav347 #typed
-24:13:19 Tab44 FinishNav346
-24:13:19 Tab44 PageLoad
-24:13:19 Tab44 FinishNav347
-24:13:19 Tab44 PageLoad
-24:13:20 Tab44 StartNav348 #typed
-24:13:20 Tab44 FinishNav348
-24:13:20 Tab44 PageLoad
-24:13:33 Tab44 StartNav349 #typed
-24:13:33 Tab44 FinishNav349
-24:13:33 Tab44 PageLoad
-24:13:41 Tab44 StartNav350 #typed
-24:13:41 Tab44 FinishNav350
-24:13:41 Tab44 PageLoad
-24:13:44 Tab44 StartNav351 #typed
-24:13:44 Tab44 FinishNav351
-24:13:44 Tab44 PageLoad
+32:37:45 Tab53 PageLoad
+32:37:45 Tab53 FinishNav450
+32:37:45 Tab53 PageLoad
+32:37:46 Tab53 StartNav451 #typed
+32:37:46 Tab53 FinishNav451
+32:37:46 Tab53 PageLoad
+32:37:50 Tab53 StartNav452 #typed
+32:37:50 Tab53 FinishNav452
+32:37:50 Tab53 PageLoad
+32:37:51 Tab53 StartNav453 #typed
+32:37:51 Tab53 FinishNav453
+32:37:51 Tab53 PageLoad
+32:37:52 Tab53 StartNav454 #typed
+32:37:52 Tab53 FinishNav454
+32:37:52 Tab53 PageLoad
+32:38:06 Microsoft.NewBrowser_Popup
+32:38:06 Microsoft.BrowserList.AddBrowser
+32:38:06 Browser54 Insert active Tab54 at 0
+32:38:06 Tab54 StartNav455 #auto_toplevel
+32:38:06 Tab54 StartNav456 #typed
+32:38:06 Tab54 FinishNav455
+32:38:06 Tab54 PageLoad
+32:38:06 Tab54 FinishNav456
+32:38:06 Tab54 PageLoad
+32:38:06 Tab54 StartNav457 #typed
+32:38:06 Tab54 FinishNav457
+32:38:06 Tab54 PageLoad
+32:38:11 Tab54 StartNav458 #typed
+32:38:11 Tab54 FinishNav458
+32:38:11 Tab54 PageLoad
+32:38:22 Tab54 StartNav459 #typed
+32:38:22 Tab54 FinishNav459
+32:38:22 Tab54 PageLoad
+32:38:26 Tab54 StartNav460 #typed
+32:38:26 Tab54 FinishNav460
+32:38:26 Tab54 PageLoad
+32:38:29 Tab54 StartNav461 #typed
+32:38:29 Tab54 FinishNav461
+32:38:29 Tab54 PageLoad
+32:38:52 Tab54 StartNav462 #typed
+32:38:52 Tab54 FinishNav462
+32:38:52 Tab54 PageLoad
+32:38:52 Tab54 StartNav463 #typed
+32:38:52 Tab54 FinishNav463
+32:38:52 Tab54 PageLoad
+32:39:13 Tab54 StartNav464 #typed
+32:39:13 Tab54 FinishNav464
+32:39:13 Tab54 PageLoad
+32:39:14 Tab54 StartNav465 #typed
+32:39:14 Tab54 FinishNav465
+32:39:14 Tab54 PageLoad
+32:39:19 Tab54 StartNav466 #typed
+32:39:19 Tab54 FinishNav466
+32:39:19 Tab54 PageLoad
+32:39:22 Tab54 StartNav467 #typed
+32:39:22 Tab54 FinishNav467
+32:39:22 Tab54 PageLoad
+32:39:29 Tab54 StartNav468 #typed
+32:39:29 Tab54 FinishNav468
+32:39:29 Tab54 PageLoad
+32:39:35 Tab54 StartNav469 #typed
+32:39:35 Tab54 FinishNav469
+32:39:35 Tab54 PageLoad
+32:39:36 Tab54 StartNav470 #typed
+32:39:36 Tab54 FinishNav470
+32:39:36 Tab54 PageLoad
+32:39:36 Tab54 StartNav471 #typed
+32:39:36 Tab54 FinishNav471
+32:39:36 Tab54 PageLoad
+32:39:39 Tab54 StartNav472 #typed
+32:39:39 Tab54 FinishNav472
+32:39:39 Tab54 PageLoad
+32:39:41 Tab54 StartNav473 #typed
+32:39:41 Tab54 FinishNav473
+32:39:41 Tab54 PageLoad
+32:39:50 Tab54 StartNav474 #typed
+32:39:50 Tab54 FinishNav474
+32:39:50 Tab54 PageLoad
+32:39:58 Tab54 StartNav475 #typed
+32:39:58 Tab54 FinishNav475
+32:39:58 Tab54 PageLoad
+32:40:03 Tab54 StartNav476 #typed
+32:40:03 Tab54 FinishNav476
+32:40:03 Tab54 PageLoad
+32:40:06 Tab54 StartNav477 #typed
+32:40:06 Tab54 FinishNav477
+32:40:06 Tab54 PageLoad
+32:40:07 Tab54 StartNav478 #typed
+32:40:07 Tab54 FinishNav478
+32:40:07 Tab54 PageLoad
+32:40:08 Tab54 StartNav479 #typed
+32:40:08 Tab54 FinishNav479
+32:40:08 Tab54 PageLoad
+32:40:09 Tab54 StartNav480 #typed
+32:40:09 Tab54 FinishNav480
+32:40:09 Tab54 PageLoad
+32:40:10 Tab54 StartNav481 #typed
+32:40:10 Tab54 FinishNav481
+32:40:10 Tab54 PageLoad
+32:40:12 Tab54 StartNav482 #typed
+32:40:12 Tab54 FinishNav482
+32:40:12 Tab54 PageLoad
+32:40:19 Tab54 StartNav483 #typed
+32:40:19 Tab54 FinishNav483
+32:40:19 Tab54 PageLoad
+32:40:20 Tab54 StartNav484 #typed
+32:40:20 Tab54 FinishNav484
+32:40:21 Tab54 PageLoad
+32:40:28 Tab54 StartNav485 #typed
+32:40:28 Tab54 FinishNav485
+32:40:28 Tab54 PageLoad
+32:40:30 Tab54 StartNav486 #typed
+32:40:30 Tab54 FinishNav486
+32:40:30 Tab54 PageLoad
+32:40:32 Tab54 StartNav487 #typed
+32:40:32 Tab54 FinishNav487
+32:40:32 Tab54 PageLoad
+32:40:34 Tab54 StartNav488 #typed
+32:40:34 Tab54 FinishNav488
+32:40:34 Tab54 PageLoad
+32:40:36 Tab54 StartNav489 #typed
+32:40:36 Tab54 FinishNav489
+32:40:36 Tab54 PageLoad
+32:40:37 Tab54 StartNav490 #typed
+32:40:37 Tab54 FinishNav490
+32:40:37 Tab54 PageLoad
+32:40:38 Tab54 StartNav491 #typed
+32:40:38 Tab54 FinishNav491
+32:40:38 Tab54 PageLoad
+32:40:40 Tab54 StartNav492 #typed
+32:40:40 Tab54 FinishNav492
+32:40:40 Tab54 PageLoad
+32:40:41 Tab54 StartNav493 #typed
+32:40:41 Tab54 FinishNav493
+32:40:41 Tab54 PageLoad
+32:40:43 Tab54 StartNav494 #typed
+32:40:43 Tab54 FinishNav494
+32:40:43 Tab54 PageLoad
