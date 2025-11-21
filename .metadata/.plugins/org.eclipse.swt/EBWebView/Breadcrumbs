@@ -1,143 +1,63 @@
-0:35:27 Tab13 FinishNav123
-0:35:27 Tab13 PageLoad
-0:35:28 Tab13 StartNav124 #typed
-0:35:28 Tab13 FinishNav124
-0:35:28 Tab13 PageLoad
-0:35:30 Tab13 StartNav125 #typed
-0:35:30 Tab13 FinishNav125
-0:35:30 Tab13 PageLoad
-0:35:31 Tab13 StartNav126 #typed
-0:35:31 Tab13 FinishNav126
-0:35:31 Tab13 PageLoad
-0:35:33 Tab13 StartNav127 #typed
-0:35:33 Tab13 FinishNav127
-0:35:33 Tab13 PageLoad
-0:35:34 Tab13 StartNav128 #typed
-0:35:34 Tab13 FinishNav128
-0:35:34 Tab13 PageLoad
-0:35:36 Tab13 StartNav129 #typed
-0:35:36 Tab13 FinishNav129
-0:35:36 Tab13 PageLoad
-0:35:46 Tab13 StartNav130 #typed
-0:35:46 Tab13 FinishNav130
-0:35:46 Tab13 PageLoad
-0:35:47 Tab13 StartNav131 #typed
-0:35:47 Tab13 FinishNav131
-0:35:47 Tab13 PageLoad
-0:36:05 Tab13 StartNav132 #typed
-0:36:05 Tab13 FinishNav132
-0:36:05 Tab13 PageLoad
-0:36:07 Tab13 StartNav133 #typed
-0:36:07 Tab13 FinishNav133
-0:36:07 Tab13 PageLoad
-0:36:08 Tab13 StartNav134 #typed
-0:36:08 Tab13 FinishNav134
-0:36:08 Tab13 PageLoad
-0:36:20 Tab13 StartNav135 #typed
-0:36:20 Tab13 FinishNav135
-0:36:20 Tab13 PageLoad
-0:36:22 Tab13 StartNav136 #typed
-0:36:22 Tab13 FinishNav136
-0:36:22 Tab13 PageLoad
-0:36:34 Tab16 StartNav137 #typed
-0:36:34 Tab16 FinishNav137
-0:36:34 Tab16 PageLoad
-0:36:44 Tab17 StartNav138 #typed
-0:36:44 Tab17 FinishNav138
-0:36:45 Tab17 PageLoad
-0:36:46 Tab17 StartNav139 #typed
-0:36:46 Tab17 FinishNav139
-0:36:46 Tab17 PageLoad
-0:36:50 Tab16 StartNav140 #typed
-0:36:50 Tab16 FinishNav140
-0:36:50 Tab16 PageLoad
-0:38:34 Tab4 StartNav141 #typed
-0:38:34 Tab4 FinishNav141
-0:38:34 Tab4 PageLoad
-0:38:38 Tab4 StartNav142 #typed
-0:38:38 Tab4 FinishNav142
-0:38:38 Tab4 PageLoad
-0:39:07 Microsoft.NewBrowser_Popup
-0:39:07 Microsoft.BrowserList.AddBrowser
-0:39:07 Browser18 Insert active Tab18 at 0
-0:39:07 Tab18 StartNav143 #auto_toplevel
-0:39:07 Tab18 StartNav144 #typed
-0:39:07 Tab18 FinishNav143
-0:39:07 Tab18 PageLoad
-0:39:07 Tab18 FinishNav144
-0:39:07 Tab18 PageLoad
-0:39:08 Tab18 StartNav145 #typed
-0:39:08 Tab18 FinishNav145
-0:39:08 Tab18 PageLoad
-0:39:22 Tab17 StartNav146 #typed
-0:39:22 Tab17 FinishNav146
-0:39:22 Tab17 PageLoad
-0:39:23 Tab17 StartNav147 #typed
-0:39:23 Tab17 FinishNav147
-0:39:23 Tab17 PageLoad
-0:39:26 Tab17 StartNav148 #typed
-0:39:26 Tab17 FinishNav148
-0:39:26 Tab17 PageLoad
-0:39:28 Tab17 StartNav149 #typed
-0:39:28 Tab17 FinishNav149
-0:39:28 Tab17 PageLoad
-0:39:32 Tab17 StartNav150 #typed
-0:39:32 Tab17 FinishNav150
-0:39:32 Tab17 PageLoad
-0:39:40 Tab18 StartNav151 #typed
-0:39:40 Tab18 FinishNav151
-0:39:40 Tab18 PageLoad
-0:39:45 Tab4 StartNav152 #typed
-0:39:45 Tab4 FinishNav152
-0:39:45 Tab4 PageLoad
-0:39:47 Tab4 StartNav153 #typed
-0:39:47 Tab4 FinishNav153
-0:39:47 Tab4 PageLoad
-0:39:48 Tab4 StartNav154 #typed
-0:39:48 Tab4 FinishNav154
-0:39:48 Tab4 PageLoad
-0:39:49 Tab4 StartNav155 #typed
-0:39:49 Tab4 FinishNav155
-0:39:49 Tab4 PageLoad
-0:39:51 Tab4 StartNav156 #typed
-0:39:51 Tab4 FinishNav156
-0:39:51 Tab4 PageLoad
-0:39:54 Tab4 StartNav157 #typed
-0:39:54 Tab4 FinishNav157
-0:39:54 Tab4 PageLoad
-0:39:55 Tab4 StartNav158 #typed
-0:39:55 Tab4 FinishNav158
-0:39:55 Tab4 PageLoad
-0:40:26 Tab13 StartNav159 #typed
-0:40:26 Tab13 FinishNav159
-0:40:26 Tab13 PageLoad
-0:40:32 Tab13 StartNav160 #typed
-0:40:32 Tab13 FinishNav160
-0:40:32 Tab13 PageLoad
-0:40:33 Tab13 StartNav161 #typed
-0:40:33 Tab13 FinishNav161
-0:40:33 Tab13 PageLoad
-0:40:38 Tab13 StartNav162 #typed
-0:40:38 Tab13 FinishNav162
-0:40:38 Tab13 PageLoad
-0:40:41 Tab13 StartNav163 #typed
-0:40:41 Tab13 FinishNav163
-0:40:41 Tab13 PageLoad
-0:40:49 Tab13 StartNav164 #typed
-0:40:49 Tab13 FinishNav164
-0:40:49 Tab13 PageLoad
-0:40:51 Tab13 StartNav165 #typed
-0:40:51 Tab13 FinishNav165
-0:40:51 Tab13 PageLoad
-0:40:52 Tab13 StartNav166 #typed
-0:40:52 Tab13 FinishNav166
-0:40:52 Tab13 PageLoad
-0:41:16 Tab14 StartNav167 #typed
-0:41:16 Tab14 FinishNav167
-0:41:16 Tab14 PageLoad
-0:42:03 Tab16 StartNav168 #typed
-0:42:03 Tab16 FinishNav168
-0:42:03 Tab16 PageLoad
-0:42:05 Tab16 StartNav169 #typed
-0:42:05 Tab16 FinishNav169
-0:42:05 Tab16 PageLoad
+1:07:44 Tab49 StartNav228 #typed
+1:07:44 Tab49 FinishNav228
+1:07:44 Tab49 PageLoad
+1:07:45 Tab49 StartNav229 #typed
+1:07:45 Tab49 FinishNav229
+1:07:45 Tab49 PageLoad
+1:07:46 Tab49 StartNav230 #typed
+1:07:46 Tab49 FinishNav230
+1:07:46 Tab49 PageLoad
+1:07:50 Tab49 StartNav231 #typed
+1:07:50 Tab49 FinishNav231
+1:07:50 Tab49 PageLoad
+1:07:51 Tab49 StartNav232 #typed
+1:07:51 Tab49 FinishNav232
+1:07:51 Tab49 PageLoad
+1:07:52 Tab49 StartNav233 #typed
+1:07:52 Tab49 FinishNav233
+1:07:52 Tab49 PageLoad
+1:07:55 Tab49 StartNav234 #typed
+1:07:55 Tab49 FinishNav234
+1:07:55 Tab49 PageLoad
+1:08:03 Tab49 StartNav235 #typed
+1:08:03 Tab49 FinishNav235
+1:08:03 Tab49 PageLoad
+1:08:04 Tab49 StartNav236 #typed
+1:08:04 Tab49 FinishNav236
+1:08:04 Tab49 PageLoad
+1:08:04 Tab49 StartNav237 #typed
+1:08:04 Tab49 FinishNav237
+1:08:04 Tab49 PageLoad
+1:08:08 Tab49 StartNav238 #typed
+1:08:08 Tab49 FinishNav238
+1:08:08 Tab49 PageLoad
+1:08:09 Tab49 StartNav239 #typed
+1:08:09 Tab49 FinishNav239
+1:08:09 Tab49 PageLoad
+1:08:11 Tab49 StartNav240 #typed
+1:08:11 Tab49 FinishNav240
+1:08:11 Tab49 PageLoad
+1:08:13 Tab49 StartNav241 #typed
+1:08:13 Tab49 FinishNav241
+1:08:13 Tab49 PageLoad
+1:08:16 Tab49 StartNav242 #typed
+1:08:16 Tab49 FinishNav242
+1:08:16 Tab49 PageLoad
+1:08:17 Tab49 StartNav243 #typed
+1:08:17 Tab49 FinishNav243
+1:08:17 Tab49 PageLoad
+1:08:18 Tab49 StartNav244 #typed
+1:08:19 Tab49 FinishNav244
+1:08:19 Tab49 PageLoad
+1:08:20 Tab49 StartNav245 #typed
+1:08:20 Tab49 FinishNav245
+1:08:20 Tab49 PageLoad
+1:08:22 Tab49 StartNav246 #typed
+1:08:22 Tab49 FinishNav246
+1:08:22 Tab49 PageLoad
+1:08:23 Tab49 StartNav247 #typed
+1:08:23 Tab49 FinishNav247
+1:08:23 Tab49 PageLoad
+1:08:27 Tab49 StartNav248 #typed
+1:08:27 Tab49 FinishNav248
+1:08:27 Tab49 PageLoad
