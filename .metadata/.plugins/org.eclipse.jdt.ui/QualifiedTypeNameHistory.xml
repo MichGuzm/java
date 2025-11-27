@@ -3,4 +3,8 @@
     <fullyQualifiedTypeName name="com.krakedev.composicion.Persona"/>
     <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
     <fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.krakedev.perisistencia.utils.ConexionBDD"/>
 </qualifiedTypeNameHistroy>
